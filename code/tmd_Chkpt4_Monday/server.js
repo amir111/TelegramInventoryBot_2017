@@ -5,7 +5,7 @@
 2. Pri najitie "sotrudnikov", nujno chtoby bylo pokazanno: "Chto, za kem, prikleplen "
 Znachit eshe nado dobavit knopki "vzyat\vernul?"
 
-3. WTF is up with the q u e u e s ? there are no queues in this program ...
+3. there are no queues in this program ...
 
 */
 
